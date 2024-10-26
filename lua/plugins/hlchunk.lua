@@ -7,8 +7,8 @@ return {
         enable = true,
         priority = 15,
         style = {
-          { fg = "#806d9c" },
-          { fg = "#c21f30" },
+          { fg = "#f2d5cf" },
+          { fg = "#e78284" },
         },
         use_treesitter = true,
         chars = {
@@ -36,9 +36,9 @@ return {
       },
       line_num = {
         enable = true,
-        style = "#806d9c",
+        style = "#eebebe",
         priority = 10,
-        use_treesitter = false,
+        use_treesitter = true,
       },
       blank = {
         enable = true,
